@@ -1,0 +1,32 @@
+nome tabela original,tipo de dado,nome tabela nova
+Grupo,text,grupo
+Liga,int4,liga
+ID Slot,bigint,id_slot
+Nome do Slot,text,nome_slot
+Taxa Liga %,int2,taxa_liga_porc
+Taxa App%,int2,taxa_app_porc
+Taxa Rodeo GGR %,int2,taxa_rodeo_ggr_porc
+Taxa Rodeo APP %,int2,taxa_rodeo_app_porc
+Rake,bigfloat,rake
+Ativos,int2,ativos
+Rodeo PL,bigfloat,rodelo_pl
+Handcap,float2,handcap
+Resultado do Clube,bigfloat,resultado_clube
+Resultado Final do Clube MTT/SNG,bigfloat,resultado_final_mtt_sng
+Resultado Final do Clube RG,bigfloat,resultado_final_rg
+Rebate,bigfloat,rebate
+Taxa Liga,bigfloat,taxa_liga_valor
+Taxa App,bigfloat,taxa_app_valor
+Taxa Rodeo,bigfloat,taxa_rodeo_valor
+Vendas,bigfloat,vendas
+Acordos/Acertos,bigfloat,acordos_acertos
+Diamantes Liga,bigfloat,diamantes_liga
+Overlay,bigfloat,overlay
+Security,bigfloat,security
+Adiantamentos,bigfloat,adiantamentos
+Inadimplencia,bigfloat,inadimplencia
+Eventos,bigfloat,eventos
+Estorno de Taxas,bigfloat,estorno_taxas
+Rakeback,bigfloat,rakeback
+Descontos,bigfloat,descontos
+Acerto Final,bigfloat,acerto_final
